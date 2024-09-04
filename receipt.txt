@@ -1,2 +1,12 @@
-Receipt Number: RN26062
-Product No: 1, Product Name: egg, Quantity: 10, Price: 200, Amount: 2000, Amount with discount: 1800
+Receipt Number: RN25629
+Product No: 1, Product Name: egg, Quantity: 4, Price: 200, Amount: 800, Amount with Discount: 800
+Total Amount: 800
+-----------------------------------
+Receipt Number: RN25989
+Product No: 1, Product Name: egg, Quantity: 4, Price: 200, Amount: 800, Amount with Discount: 800
+Total Amount: 800
+-----------------------------------
+Receipt Number: RN28216
+Product No: 1, Product Name: egg, Quantity: 1, Price: 200, Amount: 200, Amount with Discount: 200
+Total Amount: 200
+-----------------------------------
