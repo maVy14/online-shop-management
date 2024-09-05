@@ -25,7 +25,7 @@ This **Supermarket Management System** is a C++ application that simulates the o
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/self-service-billing-system.git
+    git clone https://github.com/maVy14/self-service-billing-system.git
     ```
 
 2. **Navigate to the project directory**:
