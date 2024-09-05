@@ -25,23 +25,30 @@ This **Supermarket Management System** is a C++ application that simulates the o
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/supermarket-management-system.git
+    git clone https://github.com/yourusername/self-service-billing-system.git
     ```
 
 2. **Navigate to the project directory**:
     ```bash
-    cd supermarket-management-system
+    cd self-service-billing-system
     ```
 
 3. **Compile the code**:
     Use the following command to compile the C++ files (assuming you have a C++ compiler installed):
     ```bash
-    g++ -o supermarket main.cpp product.cpp billing.cpp
+    g++ -o main main.cpp
     ```
 
 4. **Run the application**:
+
+    **On Windows**:
     ```bash
-    ./supermarket
+    main.exe
+    ```
+
+    **On Linux/Mac**
+    ```bash
+    ./main
     ```
 
 ## How to Use
