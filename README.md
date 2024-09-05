@@ -67,4 +67,4 @@ This **Supermarket Management System** is a C++ application that simulates the o
 
 ## License
 
-This project is open-source and available under the [MIT License](LICENSE).
+© [2024] Min Khant Hein. All rights reserved.
